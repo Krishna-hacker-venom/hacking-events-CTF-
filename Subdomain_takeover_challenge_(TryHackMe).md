@@ -64,4 +64,3 @@ secrethelpdesk934752.support.futurevera.thm
 - Add the secret subdomain to your `/etc/hosts` file.  
 - Access it via **HTTP (not HTTPS)**.  
 - The page redirects to an **AWS S3 error page** → the flag is visible directly in the **redirection URL** in your browser’s address bar.
-```
