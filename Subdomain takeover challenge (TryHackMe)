@@ -65,7 +65,3 @@ secrethelpdesk934752.support.futurevera.thm
 - Access it via **HTTP (not HTTPS)**.  
 - The page redirects to an **AWS S3 error page** → the flag is visible directly in the **redirection URL** in your browser’s address bar.
 ```
-
----
-
-👉 Do you want me to also create a **generic template** (like `Walkthrough_Template.md`) so you can reuse this format for every future CTF writeup in your repo?
