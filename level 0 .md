@@ -39,6 +39,14 @@ Opening this URL in the browser revealed the hidden content (flag).
 
 ---
 
+## Flag
+
+```
+^FLAG^46c1439cab66a6f1d30c2014473b6f340035e7ec06e68c9703fa0c3d0844fe5d$FLAG$
+```
+
+---
+
 ## Key Learning
 
 * Always check the **page source** for hidden files or endpoints.
